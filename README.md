@@ -7,5 +7,5 @@ Part 1: https://queerzone3000.net/resist-mass-surveillance-secure-your-online-co
 
 Feel free to make pull requests as suggestions or fork the page for your own use.
 
-This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License 
+This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License: 
 https://creativecommons.org/licenses/by-sa/4.0/
